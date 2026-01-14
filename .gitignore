@@ -1,7 +1,11 @@
-# Ignore generated files and build artifacts
-audio/
-slides/
-*.mp4
+# Ignore generated video content
+**/video/
+!**/video/.gitkeep
+
+# Allow final video files (named W14095-*)
+!**/video/W14095-*.mp4
+
+# Ignore log files
 *.log
 
 # Ignore OS files
