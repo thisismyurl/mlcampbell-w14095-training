@@ -13,7 +13,7 @@ Non-technical users can edit scripts directly on GitHub:
 5. **Click "Commit changes"** - your edits are saved!
 
 ### Quick Links for Editing
-- [Edit Essential Knowledge Script](https://github.com/thisismyurl/mlcampbell-w14095-training/edit/main/en/01%20Essential%20Knowledge/script.md)
+- [Edit Essential Knowledge Script](https://github.com/thisismyurl/mlcampbell-w14095-training/edit/main/en/01%20Essential%20Knowledge/script/script.md)
 
 ## 📁 Repository Structure
 
@@ -21,13 +21,18 @@ Non-technical users can edit scripts directly on GitHub:
 W14095/
 ├── en/                                  # English language content
 │   ├── 01 Essential Knowledge/          # Module 1
-│   │   ├── script.md                    # ✏️ EDIT THIS - Training script
-│   │   ├── audio/                       # Generated audio files
-│   │   ├── slides/                      # Generated slide images
-│   │   └── README.md                    # Production guide
-│   ├── 02 Application Techniques/       # Module 2
-│   ├── 03 Troubleshooting/              # Module 3
-│   └── ...
+│   │   ├── script/                      # Training scripts
+│   │   │   └── script.md               # ✏️ EDIT THIS - Training narration
+│   │   ├── video/                       # Generated video content
+│   │   │   ├── audio/                   # Generated audio files
+│   │   │   ├── slides/                  # Generated slide images
+│   │   │   └── W14095-01-essential-knowledge.mp4  # Final video
+│   │   ├── build-video.ps1             # Production script for this module
+│   │   └── README.md                    # Module-specific guide
+│   ├── 02 Application/                  # Module 2
+│   ├── 03 Preparation/                  # Module 3
+│   ├── audio-config.json               # Audio generation configuration
+│   └── config.json                      # Language-specific settings
 ├── docs/                                # Product documentation
 │   ├── EDS_Arroyo_1K.pdf
 │   ├── PDS_Arroyo_1K.pdf
@@ -35,28 +40,45 @@ W14095/
 └── W14095_product_data.json            # Product metadata
 ```
 
+**Centralized Production Tools:**
+```
+C:\Users\Owner\Local Sites\mlcampbell\projects\video-tools\
+├── audio-generator-v2.ps1              # TTS audio generation
+├── slide-generator.ps1                 # Slide image creation
+├── video-generator.ps1                 # Video assembly
+└── VIDEO_GENERATION_INSTRUCTIONS.md    # Technical docs
+```
+
 ## 🎯 What You Can Edit
 
 ### ✅ Safe to Edit
-- **script.md files** - All training narration and content
+- **script/script.md files** - All training narration and content
 - **README.md files** - Documentation and guides
 - Any markdown (.md) files
 
 ### ⚠️ Please Don't Edit
-- **.ps1 files** - PowerShell automation scripts
-- **audio/ folders** - Auto-generated audio files
-- **slides/ folders** - Auto-generated slide images
-- **video.mp4 files** - Final rendered videos
-- **.json files** - Configuration data
+- **build-video.ps1 files** - Module build scripts (unless you know PowerShell)
+- **video/ folders** - Auto-generated content (audio, slides, videos)
+- **.json files** - Configuration data (unless specifically instructed)
 
 ## 🎬 Video Production
 
-Scripts are automatically converted to videos using:
-1. **Text-to-Speech** - ElevenLabs AI voice generation
-2. **Slide Generation** - Automated visual slides
-3. **Video Assembly** - Combines audio + slides
+Training scripts are converted to videos using centralized production tools:
 
-See [Production Guide](en/01%20Essential%20Knowledge/README.md) for details.
+**Tools Location:** `C:\Users\Owner\Local Sites\mlcampbell\projects\video-tools\`
+
+**Process:**
+1. **Text-to-Speech** - ElevenLabs AI converts script to audio
+2. **Slide Generation** - Creates visual slides from content
+3. **Video Assembly** - Combines audio + slides with FFmpeg
+
+**To Build a Module:**
+```powershell
+cd "W14095\en\01 Essential Knowledge"
+.\build-video.ps1
+```
+
+See module README files for detailed production guides.
 
 ## 📖 Script Writing Guidelines
 
