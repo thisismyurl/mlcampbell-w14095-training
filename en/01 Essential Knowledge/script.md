@@ -117,6 +117,7 @@ Drying times vary by conditions:
 ---
 
 ## Slide 5: Primary Applications
+<!-- Slide Duration: ~75 seconds | Purpose: Show real-world use cases -->
 
 ### Narrative
 ARROYO® 1K excels in several key finishing applications.
@@ -129,9 +130,19 @@ ARROYO® 1K excels in several key finishing applications.
 
 **Specialty Projects:** Custom woodworking, architectural millwork, and decorative elements all benefit from this versatile topcoat.
 
+<!--
+📝 EDITOR NOTES:
+- Each application category in bold (spoken with emphasis)
+- Concrete examples help visualize use cases
+- Links durability to real wear patterns
+- "Specialty Projects" keeps door open for other uses
+- Total time: about 45 seconds
+-->
+
 ---
 
 ## Slide 6: Benefits Over Traditional Finishes
+<!-- Slide Duration: ~90 seconds | Purpose: Competitive differentiation -->
 
 ### Narrative
 Why are professionals switching to ARROYO® 1K? Let's compare the benefits.
@@ -149,9 +160,20 @@ Compared to other waterborne topcoats, ARROYO® 1K delivers:
 - Faster drying times
 - More forgiving application characteristics
 
+<!--
+📝 EDITOR NOTES:
+- Rhetorical question engages listener
+- Two-part comparison structure (vs solvent, vs other waterborne)
+- Benefits emphasize both safety AND performance
+- "Without compromising" addresses common objection
+- Keep bullet points concise but specific
+- Total time: about 60 seconds
+-->
+
 ---
 
 ## Slide 7: Environmental Responsibility
+<!-- Slide Duration: ~60 seconds | Purpose: Sustainability messaging -->
 
 ### Narrative
 As a waterborne product, ARROYO® 1K represents a commitment to environmental stewardship.
@@ -160,9 +182,20 @@ Waterborne technology reduces the release of volatile organic compounds that con
 
 The product is also easier to dispose of—excess material and cleaning water can be handled responsibly without the concerns associated with solvent-based finishes.
 
+<!--
+📝 EDITOR NOTES:
+- "Stewardship" suggests active responsibility
+- Explains environmental benefit without being preachy
+- Balances eco-benefits with quality assurance
+- Practical disposal info adds value
+- Keep tone professional, not marketing-heavy
+- Total time: about 40 seconds
+-->
+
 ---
 
 ## Slide 8: Summary and Next Steps
+<!-- Slide Duration: ~45 seconds | Purpose: Wrap up and transition -->
 
 ### Narrative
 ARROYO® 1K Waterborne White Topcoat is a game-changing product for finishing professionals. It combines environmental responsibility with professional-grade performance.
@@ -170,6 +203,15 @@ ARROYO® 1K Waterborne White Topcoat is a game-changing product for finishing pr
 In our next module, we'll dive into the application techniques that help you get the best results with ARROYO® 1K.
 
 Thank you for taking the time to learn about this innovative finishing product.
+
+<!--
+📝 EDITOR NOTES:
+- Strong summary statement reinforces key message
+- Forward-looking: sets up next module
+- Gracious closing builds goodwill
+- Keep brief - listeners are ready to move on
+- Total time: about 30 seconds
+-->
 
 ---
 
