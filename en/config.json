@@ -1,0 +1,70 @@
+{
+  "projectMetadata": {
+    "productCode": "W14095",
+    "productName": "ARROYO® 1K Waterborne White Topcoat",
+    "language": "en",
+    "projectVersion": "1.0",
+    "createdDate": "2026-01-13"
+  },
+  "videoCategories": [
+    {
+      "number": 1,
+      "name": "Essential Knowledge",
+      "duration": "4-5 minutes",
+      "purpose": "Help distributors understand what the product is and why customers need it",
+      "audience": "Sales reps, distributors, sales staff"
+    },
+    {
+      "number": 2,
+      "name": "How to Sell",
+      "duration": "4-5 minutes",
+      "purpose": "Train sales staff on positioning and selling this product effectively",
+      "audience": "Sales representatives, retail staff"
+    },
+    {
+      "number": 3,
+      "name": "Product Knowledge",
+      "duration": "4-5 minutes",
+      "purpose": "Provide detailed technical product information from the PDS",
+      "audience": "Technical sales staff, distributors, professionals"
+    },
+    {
+      "number": 4,
+      "name": "Safety Knowledge",
+      "duration": "4-5 minutes",
+      "purpose": "Help staff discuss safety considerations with customers",
+      "audience": "Anyone responsible for safety communication",
+      "authority": "SDS (Safety Data Sheet)"
+    },
+    {
+      "number": 5,
+      "name": "Environmental Knowledge",
+      "duration": "4-5 minutes",
+      "purpose": "Help staff discuss environmental impact and compliance",
+      "audience": "Sales staff, environmentally-conscious customers",
+      "authority": "EDS (Environmental Data Sheet)"
+    }
+  ],
+  "contentGuidelines": {
+    "readingLevel": "Grade 10",
+    "sentenceLength": "10-15 words maximum",
+    "format": "Voice-over optimized",
+    "tone": "Professional, friendly, confident",
+    "maximumDuration": "5 minutes per video",
+    "wordCount": "600-750 words for voice-over"
+  },
+  "sourceDocuments": {
+    "productWebsite": "https://www.mlcampbell.com/product/arroyo-1k-waterborne-whitetopcoat/",
+    "sellSheets": "See /docs folder for sell sheets",
+    "pds": "See /docs folder for Product Data Sheet",
+    "eds": "See /docs folder for Environmental Data Sheet",
+    "sds": "See /docs folder for Safety Data Sheet"
+  },
+  "folders": {
+    "01 Essential Knowledge": "Video script and supporting materials for Essential Knowledge module",
+    "02 How to Sell": "Video script and supporting materials for How to Sell module",
+    "03 Product Knowledge": "Video script and supporting materials for Product Knowledge module",
+    "04 Safety Knowledge": "Video script and supporting materials for Safety Knowledge module",
+    "05 Environmental Knowledge": "Video script and supporting materials for Environmental Knowledge module"
+  }
+}

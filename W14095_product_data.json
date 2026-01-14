@@ -1,0 +1,87 @@
+{
+  "productCode": "W14095",
+  "productName": "ARROYO® 1K Waterborne White Topcoat",
+  "productCategory": "Interior Waterborne Coatings",
+  "productType": "Topcoat",
+  "brandFamily": "ARROYO®",
+  "description": "ARROYO® 1K WB WHITE ACRYLIC URETHANE DISPERSION is a hybrid waterborne system for interior use that delivers 2K performance in a 1K system. This coating helps to improve productivity and offers easy application with fewer steps and an unlimited application window.",
+  "keyFeatures": [
+    "No pot life restriction",
+    "Exceptional self-sealing",
+    "High solids and excellent leveling",
+    "Ready to spray formula with little to no reduction required",
+    "GREENGUARD® certified for low VOC and indoor emissions",
+    "Unlimited application window"
+  ],
+  "applications": [
+    "Kitchen and bathroom cabinets",
+    "Household furniture",
+    "Office furniture"
+  ],
+  "performance": {
+    "certifications": [
+      "GREENGUARD® certified",
+      "Low VOC",
+      "Exceeds AWI specifications",
+      "Exceeds KCMA specifications"
+    ],
+    "sheen": "Flat",
+    "printResistance": "Excellent",
+    "hotColdCheckResistance": "Excellent",
+    "crossHatchAdhesion": "Excellent",
+    "blockingResistance": "Excellent",
+    "wetHeatResistance": "Very good",
+    "edgeSoak": "Excellent"
+  },
+  "containersAvailable": [
+    {
+      "productNumber": "00W140950-16",
+      "size": "1 Gallon",
+      "container": "Can",
+      "upc": "035777934012"
+    },
+    {
+      "productNumber": "00W140950-20",
+      "size": "5 Gallon",
+      "container": "Pail",
+      "upc": "035777934067"
+    }
+  ],
+  "documentation": {
+    "sellSheets": {
+      "english": "W14095_sell_sheet.pdf",
+      "french": "Not available",
+      "spanish": "Not available",
+      "status": "✓ ACQUIRED - English sell sheet downloaded",
+      "downloadUrl": "https://www.mlcampbell.com/wp-content/uploads/2022/02/W-615150-MLC-Arroyo-Sell-Sheet-Updates-FINAL2-HiRes.pdf",
+      "fileSizeKB": 3697.60
+    },
+    "technicalDataSheet": {
+      "filename": "W14095_pds.pdf",
+      "status": "✓ ACQUIRED - Product Data Sheet downloaded",
+      "downloadUrl": "https://www.paintdocs.com/docs/webPDF.jsp?SITEID=MLC&doctype=PDS&prodno=W140950",
+      "fileSizeKB": 255.11
+    },
+    "environmentalDataSheet": {
+      "filename": "W14095_eds.pdf",
+      "status": "✓ ACQUIRED - Environmental Data Sheet downloaded",
+      "downloadUrl": "https://www.paintdocs.com/docs/webPDF.jsp?SITEID=MLC&doctype=EDS&prodno=W140950",
+      "fileSizeKB": 107.26
+    },
+    "safetyDataSheet": {
+      "filename": "W14095_sds.pdf",
+      "status": "✓ ACQUIRED - Safety Data Sheet downloaded",
+      "downloadUrl": "https://www.paintdocs.com/docs/webPDF.jsp?SITEID=MLC&doctype=SDS&prodno=W140950",
+      "fileSizeKB": 140.31,
+      "note": "Can be referenced for all M.L. Campbell products (same format)"
+    }
+  },
+  "productUrl": "https://www.mlcampbell.com/product/arroyo-1k-waterborne-whitetopcoat/",
+  "dataCreatedDate": "2026-01-13",
+  "sourceVerification": {
+    "website": "mlcampbell.com/products/all/",
+    "productFound": true,
+    "documentLinksVerified": false,
+    "notes": "Product page found but document download links not yet located - may need to contact distributor or check support section"
+  }
+}

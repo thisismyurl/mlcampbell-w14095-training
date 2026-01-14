@@ -1,0 +1,157 @@
+{
+  "description": "Audio generation configuration for W14095 product videos",
+  "version": "1.0",
+  
+  "characterFilters": {
+    "description": "Characters to remove from audio generation (but keep in visual scripts)",
+    "filters": [
+      {
+        "character": "®",
+        "description": "Registered trademark symbol",
+        "replacement": ""
+      },
+      {
+        "character": "™",
+        "description": "Trademark symbol",
+        "replacement": ""
+      },
+      {
+        "character": "©",
+        "description": "Copyright symbol",
+        "replacement": ""
+      },
+      {
+        "character": "°",
+        "description": "Degree symbol",
+        "replacement": " degrees"
+      },
+      {
+        "character": "%",
+        "description": "Percent symbol (keep for now)",
+        "replacement": "%"
+      }
+    ]
+  },
+  
+  "pronunciationOverrides": {
+    "description": "Replace specific words/phrases with phonetic spellings for better TTS pronunciation",
+    "overrides": [
+      {
+        "original": "ARROYO",
+        "replacement": "Uh-ROY-oh",
+        "description": "Brand name pronunciation",
+        "enabled": false,
+        "note": "Set enabled to true only if TTS mispronounces"
+      },
+      {
+        "original": "M.L. Campbell",
+        "replacement": "M L Campbell",
+        "description": "Company name - pronounce letters separately",
+        "enabled": true
+      },
+      {
+        "original": "1K",
+        "replacement": "one K",
+        "description": "One-component system",
+        "enabled": true
+      },
+      {
+        "original": "2K",
+        "replacement": "two K",
+        "description": "Two-component system",
+        "enabled": true
+      },
+      {
+        "original": "VOC",
+        "replacement": "V O C",
+        "description": "Volatile Organic Compounds acronym",
+        "enabled": true
+      },
+      {
+        "original": "HVLP",
+        "replacement": "H V L P",
+        "description": "High Volume Low Pressure",
+        "enabled": true
+      },
+      {
+        "original": "SDS",
+        "replacement": "S D S",
+        "description": "Safety Data Sheet",
+        "enabled": true
+      },
+      {
+        "original": "PDS",
+        "replacement": "P D S",
+        "description": "Product Data Sheet",
+        "enabled": true
+      },
+      {
+        "original": "EDS",
+        "replacement": "E D S",
+        "description": "Environmental Data Sheet",
+        "enabled": true
+      },
+      {
+        "original": "GREENGUARD",
+        "replacement": "Green Guard",
+        "description": "Certification name",
+        "enabled": true
+      },
+      {
+        "original": "AWI",
+        "replacement": "A W I",
+        "description": "Architectural Woodwork Institute",
+        "enabled": true
+      },
+      {
+        "original": "KCMA",
+        "replacement": "K C M A",
+        "description": "Kitchen Cabinet Manufacturers Association",
+        "enabled": true
+      }
+    ]
+  },
+  
+  "textCleaning": {
+    "description": "Additional text cleaning rules",
+    "rules": [
+      {
+        "pattern": "\\*\\*",
+        "replacement": "",
+        "description": "Remove markdown bold"
+      },
+      {
+        "pattern": "`",
+        "replacement": "",
+        "description": "Remove markdown code"
+      },
+      {
+        "pattern": "\\[|\\]",
+        "replacement": "",
+        "description": "Remove markdown links"
+      },
+      {
+        "pattern": "---+",
+        "replacement": "",
+        "description": "Remove horizontal rules"
+      },
+      {
+        "pattern": "#{2,}",
+        "replacement": "",
+        "description": "Remove markdown headers"
+      }
+    ]
+  },
+  
+  "customPronunciations": {
+    "description": "Add your own custom pronunciations here as you discover them",
+    "examples": [
+      {
+        "original": "example-word",
+        "replacement": "phonetic spelling",
+        "enabled": false,
+        "note": "Add notes about why this override is needed"
+      }
+    ]
+  }
+}
