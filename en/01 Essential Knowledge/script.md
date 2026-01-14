@@ -1,25 +1,50 @@
 # ARROYO® 1K Waterborne White Topcoat - Essential Knowledge
 
+<!-- 
+✏️ EDITING GUIDE:
+- This is the training narration that gets converted to audio
+- Write conversationally, as if speaking to a trainee
+- Keep paragraphs short (3-4 sentences max)
+- Aim for 60-90 seconds of narration per slide
+- Always use ARROYO® with the ® symbol
+- Define technical terms on first use
+- See CONTRIBUTING.md for detailed guidelines
+-->
+
 ## Video Overview
 This module introduces ARROYO® 1K Waterborne White Topcoat, covering product fundamentals, key features, benefits, and primary applications.
+
+**Target Audience:** Professional finishers, cabinet makers, furniture manufacturers  
+**Duration:** 8-10 minutes  
+**Prerequisites:** Basic finishing knowledge
 
 ---
 
 ## Slide 1: Product Introduction
+<!-- Slide Duration: ~60 seconds | Purpose: Welcome and set expectations -->
 
 ### Narrative
 Welcome to ARROYO® 1K Waterborne White Topcoat training. In this module, we'll explore the essential knowledge you need to understand this innovative waterborne finishing product.
 
 ARROYO® 1K is a single-component, waterborne topcoat that delivers professional-grade finishes for wood furniture and cabinetry. It's engineered to combine the ease of water-based application with the durability and clarity you expect from premium finishing products.
 
+<!--
+📝 EDITOR NOTES:
+- Opening should be warm and welcoming
+- Sets the stage for what's coming
+- Emphasizes both ease AND quality
+- Total time: about 30 seconds
+-->
+
 ---
 
 ## Slide 2: What is ARROYO® 1K?
+<!-- Slide Duration: ~75 seconds | Purpose: Define the product and technology -->
 
 ### Narrative
 ARROYO® 1K stands for "one-component" waterborne topcoat. Unlike two-part systems that require mixing a resin with a hardener, ARROYO® 1K comes ready to use right out of the container.
 
-The "waterborne" technology means it uses water as the primary carrier instead of volatile organic compounds or VOCs. This makes it environmentally friendly, low-odor, and safer to use in your shop.
+The "waterborne" technology means it uses water as the primary carrier instead of volatile organic compounds—or V-O-C-s. This makes it environmentally friendly, low-odor, and safer to use in your shop.
 
 Key characteristics:
 - Single-component formulation
@@ -28,9 +53,18 @@ Key characteristics:
 - Fast drying properties
 - Exceptional clarity for white finishes
 
+<!--
+📝 EDITOR NOTES:
+- VOC spelled out first, then pronounced as letters
+- Emphasize convenience (ready-to-use)
+- Bullet points should be spoken naturally, not read robotically
+- Total time: about 45 seconds
+-->
+
 ---
 
 ## Slide 3: Key Features
+<!-- Slide Duration: ~90 seconds | Purpose: Highlight product advantages -->
 
 ### Narrative
 Let's look at the standout features that make ARROYO® 1K a preferred choice for professional finishers.
@@ -41,25 +75,44 @@ Let's look at the standout features that make ARROYO® 1K a preferred choice for
 
 **Superior Hardness:** Despite being water-based, ARROYO® 1K delivers hardness ratings comparable to traditional solvent-based topcoats, protecting your finished pieces from daily wear.
 
-**Quick Recoat Times:** With fast evaporation, you can recoat in as little as two to four hours, keeping your projects moving.
+**Quick Recoat Times:** With fast evaporation, you can recoat in as little as two to four hours, keeping your projects moving efficiently.
 
-**Excellent Flow and Leveling:** The formula is engineered to apply smoothly with minimal brush marks or orange peel, even for inexperienced applicators.
+**Excellent Flow and Leveling:** The formula is engineered to apply smoothly with minimal brush marks or orange peel, even for applicators new to waterborne products.
+
+<!--
+📝 EDITOR NOTES:
+- Each feature has a descriptive name in bold (spoken with emphasis)
+- Benefits are tied to real-world use cases
+- Addresses common objection ("despite being water-based")
+- Last line builds confidence for new users
+- Total time: about 60 seconds
+-->
 
 ---
 
 ## Slide 4: Technical Specifications
+<!-- Slide Duration: ~75 seconds | Purpose: Provide data for technical buyers -->
 
 ### Narrative
 For those who want the technical details, here are ARROYO® 1K's core specifications.
 
-Solids content is approximately 35%, meaning you're getting high-quality finish in each coat. The VOC level is under 100 grams per liter, qualifying it as low-VOC throughout North America.
+Solids content is approximately 35 percent, meaning you're getting high-quality finish material in each coat. The VOC level is under 100 grams per liter, qualifying it as low-VOC throughout North America.
 
 Viscosity is optimized for spray application, though it can be applied with brushes or rollers. The product remains stable for extended periods, with a typical shelf life of one year in unopened containers.
 
 Drying times vary by conditions:
-- Tack-free in 2-4 hours
-- Recoat ready in 4-6 hours
-- Full cure in 24-48 hours under optimal conditions
+- Tack-free in 2 to 4 hours
+- Recoat ready in 4 to 6 hours  
+- Full cure in 24 to 48 hours under optimal conditions
+
+<!--
+📝 EDITOR NOTES:
+- Numbers written out ("35 percent" not "35%") for natural speech
+- Technical but accessible tone
+- Dashes spoken as "to" (2 to 4 hours)
+- "Optimal conditions" implies room temp, good airflow
+- Total time: about 45 seconds
+-->
 
 ---
 
